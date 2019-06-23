@@ -160,6 +160,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 2dbfd4f7836c7f6a79e17be5f4bf7969 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointCircuit
 457ed3511b1b9a3495ede03148cd06a7 Assembly-CSharp.dll:.Target
 b1f0704fc1b542c80ecf3fa1bbf472a1 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController
+037481955554614cdd90968c1188a8d9 Assembly-CSharp.dll:.DamagePlayer
 60d0e07b4b2105a5c4dc2d7611cda48c Assembly-CSharp.dll:.Gun
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 de4d9d052ba4d30c8e1d66d73b186762 UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -188,6 +189,5 @@ b7f557c19cce3b6f593e26edfe1ec859 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 e7cad0cd38cfd23c44199eb8c87a6385 Assembly-CSharp.dll:.EditorLabel
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FPSCounter
 d7cf429a9664054ea3047178de9455ea Assembly-CSharp.dll:.SoftNormalsToVertexColor
-0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-037481955554614cdd90968c1188a8d9 Assembly-CSharp.dll:.DamagePlayer
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PlayButton
+0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
